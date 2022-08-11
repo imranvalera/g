@@ -18,6 +18,8 @@ public class SummativeSums {
         for (int i : intArray){
             sum += i;
         }
+        //k
         return sum;
+        //sf
     }
 }
